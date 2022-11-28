@@ -64,7 +64,8 @@ ex) git checkout -b test-mizuno
 ```
 
 #### 4. ファイルの修正
-[issue]([修正](https://github.com/mizu0715/git-seminar/issues/1))はこちら
+[issue](https://github.com/mizu0715/git-seminar/issues/1)はこちら
+
 `git-semier/src/sample.html` または、 `git-semier/src/sample.txt` を修正してください
 
 修正ファイルの状態は下記のコマンドで確認
