@@ -22,8 +22,8 @@ Gitが使えなきゃエンジニアになれない？今更聞けないGitの�
 ### Git初期設定
 以下のGit初期設定を行なっていない場合は、コマンドを実行してください
 ```
-$ git config --global user.name ”ユーザ名"
-$ git config --global user.email ”メールアドレス"
+$ git config --global user.name "ユーザ名"
+$ git config --global user.email "メールアドレス"
 ```
 
 ### リポジトリをcloneする作業ディレクトリへ移動（場所は任意）
